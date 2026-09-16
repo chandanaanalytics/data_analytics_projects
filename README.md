@@ -22,4 +22,4 @@ This project analyzes patient health data to identify patterns associated with d
 - Scikit-learn
 
 ## 👩‍💻 Author
-Chandana Bharali
+Chandana Priyadarshini
