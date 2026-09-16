@@ -3,17 +3,17 @@ A collection of Python projects and exercises focused on developing practical Da
 
 # Diabetes Risk Prediction
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes patient health data to identify patterns associated with diabetes and develops a machine learning model to predict diabetes risk.
 
-## 🎯 Objectives
+##  Objectives
 - Analyze glucose, blood pressure, BMI, insulin, and age
 - Compare diabetes and non-diabetes groups
 - Explore relationships between different health indicators
 - Build a machine learning model for diabetes prediction
 - Evaluate the model using precision, recall, and ROC-AUC
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -21,5 +21,5 @@ This project analyzes patient health data to identify patterns associated with d
 - Seaborn
 - Scikit-learn
 
-## 👩‍💻 Author
+##  Author
 Chandana Priyadarshini
